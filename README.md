@@ -1,1 +1,3 @@
-# actividadGrupal2
+Mer
+Alex
+Adri
